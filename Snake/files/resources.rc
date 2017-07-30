@@ -1,0 +1,4 @@
+
+#include "resource.h"
+
+IDI_ICON        ICON        "C:\\Users\\User\\Desktop\\C++\\Snake\\files\\gameicon.ico"
