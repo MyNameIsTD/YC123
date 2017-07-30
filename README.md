@@ -1,4 +1,6 @@
+# C++ Projects
+These are the many batch programmes I have created.
 # Snake
-This is a simple batch game of Snake.
-Made in C++
-Code::Blocks
+I created snake with Code::Blocks C++
+# Tic Tac Toe
+I created tic tac toe with Code::Blocks C++
